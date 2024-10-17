@@ -14,11 +14,11 @@ Tyto 3D modely jsem převážně exportoval do herního enginu Unreal Engine 4 (
 
 Co se programování týče, mám velké zkušenosti jak s OOP jazyky, tak ne-OOP jazyky. Na vysoké škole jsme programovali spoustu různých projektů, od základních CLI programů, přes aplikace, po překladače a interprety.
 
-Mám zkušenosti s jazyky C/C++, Java, Python, Pascal a GDScript. Poslední rok a půl jsem aktivně programoval v GDScript, ale po drobném připomenutím syntaxe by neměl být problém přejít na jiný jazyk, případně se nějaký naučit.
+Mám zkušenosti s jazyky C/C++, Java, Python, Pascal a GDScript. Poslední rok a půl jsem aktivně programoval v GDScript, ale po drobném připomenutím syntaxe by neměl být problém přejít na jiný jazyk, případně se nějaký naučit.
 
 Poslední rok a půl aktivně pracuji na velkém herním projektu Open-VTT v herním enginu Godot 4. Jedná se o open-source 2D virtuální tabletop pro hraní stolních her na hrdiny, jako je Dungeons and Dragons, Pathfinder a mnohé další. Více na: https://github.com/Khazlor/Open-VTT
 
-Jako jeho součást jsem řešil celou strukturu hry, návrh vylepšení oproti aktuálním řešením na trhu, UI, světelný systém, zpracování uživatelského vstupu, vyhodnocování příkazů zadaných uživatelem, multiplayer, undo/redo systém, nahrávání a sdílení souborů při běhu hry, ukládání a načítání map a postav, nástroj pro konverzi PDF formulářů s informacemi o postavách používanými ve stolních hrách do formátu použitelným pro VTT, provázání postav s jejich tokeny (žetony/figurky reprezentující postavu na herní ploše), zaměřovací systém, automatické vyhodnocování akcí a mnohé další.<br>
+Jako jeho součást jsem řešil celou strukturu hry, návrh vylepšení oproti aktuálním řešením na trhu, UI, světelný systém, zpracování uživatelského vstupu, vyhodnocování příkazů zadaných uživatelem, multiplayer, undo/redo systém, nahrávání a sdílení souborů při běhu hry, ukládání a načítání map a postav, nástroj pro konverzi PDF formulářů s informacemi o postavách používanými ve stolních hrách do formátu použitelným pro VTT, provázání postav s jejich tokeny (žetony/figurky reprezentující postavu na herní ploše), zaměřovací systém, automatické vyhodnocování akcí a mnohé další.<br>
 Tím pádem mám určité zkušenosti s více oblastmi vývoje, ale nespecializuji se na žádný.
 
 Pokud by jste se chtěli blíže seznámit s mým myšlenkovým pochodem při tvorbě projektu, většina je popsána ve svých sekcích mé bakalářské práce, jejímž výsledkem je Open-VTT: https://www.vut.cz/studenti/zav-prace/detail/156289
