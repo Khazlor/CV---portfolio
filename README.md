@@ -8,9 +8,13 @@ Nedávno jsem vystudoval vysokou školu VUT FIT a kromě bakalářské práce v 
 
 # Zkušenosti / Kvalifikace
 
+### 3D Grafik
+
 V minulosti jsem 8 let aktivně 3D modeloval v programu Blender modely postav, prostředí a spoustu dalších objektů, jak pro hry, tak pro 3D tisk. Zároveň jsem řešil i ostatní věci okolo 3D modelů, jako jsou materiály a textury, normal mapy, animace, zjednodušené kolize atd. Mám také zkušenosti s programy Substance Painter, ZBrush a technickým 3D modelováním v programu SolidWorks.
 
 Tyto 3D modely jsem převážně exportoval do herního enginu Unreal Engine 4 (verze 4.14 - 4.25), kde jsem následně řešil jejich implementaci do osobního herního projektu.
+
+### Programátor
 
 Co se programování týče, mám velké zkušenosti jak s OOP jazyky, tak ne-OOP jazyky. Na vysoké škole jsme programovali spoustu různých projektů, od základních CLI programů, přes aplikace, po překladače a interprety.
 
@@ -25,17 +29,17 @@ Pokud by jste se chtěli blíže seznámit s mým myšlenkovým pochodem při tv
 
 # Shrnutí
 
-## 3D grafika:
+### 3D grafika:
 Blender, Substance Painter, ZBrush + materiály v UE4, animace<br>
 Galerie zajímavé volnočasové tvorby:<br>
 https://drive.google.com/drive/folders/17Hb1R8_Mr8BOn2uBAP4dz_DtplGug58c
 
-## Herní engine:
+### Herní engine:
 UE4, Godot 4<br>
 hlavní projekt Open-VTT v Godot 4:<br>
 https://github.com/Khazlor/Open-VTT
 
-## Programování:
+### Programování:
 C/C++, Java, Python, Pascal, GDScript<br>
 Momentálně se učím C#
 
