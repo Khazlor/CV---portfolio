@@ -14,7 +14,7 @@ Tyto 3D modely jsem převážně exportoval do herního enginu Unreal Engine 4 (
 
 Co se programování týče, mám velké zkušenosti jak s OOP jazyky, tak ne-OOP jazyky. Na vysoké škole jsme programovali spoustu různých projektů, od základních CLI programů, přes aplikace, po překladače a interprety.
 
-Mám zkušenosti s jazyky C/C++, Java, Python, Pascal a GDScript. Poslední rok a půl jsem aktivně programoval v GDScript, ale po drobném připomenutím syntaxe by neměl být problém přejít na jiný jazyk, případně se nějaký naučit.
+Mám zkušenosti s jazyky C/C++, Java, Python, Pascal a GDScript. Poslední rok a půl jsem aktivně programoval v GDScript, ale po drobném připomenutím syntaxe by neměl být problém přejít na jiný jazyk, případně se nějaký naučit, momentálně se učím C#.
 
 Poslední rok a půl aktivně pracuji na velkém herním projektu Open-VTT v herním enginu Godot 4. Jedná se o open-source 2D virtuální tabletop pro hraní stolních her na hrdiny, jako je Dungeons and Dragons, Pathfinder a mnohé další. Více na: https://github.com/Khazlor/Open-VTT
 
@@ -36,7 +36,8 @@ hlavní projekt Open-VTT v Godot 4:<br>
 https://github.com/Khazlor/Open-VTT
 
 ## Programování:
-C/C++, Java, Python, Pascal, GDScript
+C/C++, Java, Python, Pascal, GDScript<br>
+Momentálně se učím C#
 
 # Ideální pozice
 
