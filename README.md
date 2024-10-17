@@ -18,7 +18,7 @@ Mám zkušenosti s jazyky C/C++, Java, Python, Pascal a GDScript. Poslední rok 
 
 Poslední rok a půl aktivně pracuji na velkém herním projektu Open-VTT v herním enginu Godot 4. Jedná se o open-source 2D virtuální tabletop pro hraní stolních her na hrdiny, jako je Dungeons and Dragons, Pathfinder a mnohé další. Více na: https://github.com/Khazlor/Open-VTT
 
-Jako jeho součást jsem řešil celou strukturu hry, návrh vylepšení oproti aktuálním řešením na trhu, UI, světelný systém, zpracování uživatelského vstupu, vyhodnocování příkazů zadaných uživatelem, multiplayer, undo/redo systém, nahrávání a sdílení souborů při běhu hry, ukládání a načítání map a postav, nástroj pro konverzi PDF formulářů s informacemi o postavách používanými ve stolních hrách do formátu použitelným pro VTT, provázání postav s jejich tokeny (žetony/figurky reprezentující postavu na herní ploše), zaměřovací systém, automatické vyhodnocování akcí a mnohé další.
+Jako jeho součást jsem řešil celou strukturu hry, návrh vylepšení oproti aktuálním řešením na trhu, UI, světelný systém, zpracování uživatelského vstupu, vyhodnocování příkazů zadaných uživatelem, multiplayer, undo/redo systém, nahrávání a sdílení souborů při běhu hry, ukládání a načítání map a postav, nástroj pro konverzi PDF formulářů s informacemi o postavách používanými ve stolních hrách do formátu použitelným pro VTT, provázání postav s jejich tokeny (žetony/figurky reprezentující postavu na herní ploše), zaměřovací systém, automatické vyhodnocování akcí a mnohé další.<br>
 Tím pádem mám určité zkušenosti s více oblastmi vývoje, ale nespecializuji se na žádný.
 
 Pokud by jste se chtěli blíže seznámit s mým myšlenkovým pochodem při tvorbě projektu, většina je popsána ve svých sekcích mé bakalářské práce, jejímž výsledkem je Open-VTT: https://www.vut.cz/studenti/zav-prace/detail/156289
@@ -26,13 +26,13 @@ Pokud by jste se chtěli blíže seznámit s mým myšlenkovým pochodem při tv
 # Shrnutí
 
 ## 3D grafika:
-Blender, Substance Painter, ZBrush + materiály v UE4, animace
-Galerie zajímavé volnočasové tvorby:
+Blender, Substance Painter, ZBrush + materiály v UE4, animace<br>
+Galerie zajímavé volnočasové tvorby:<br>
 https://drive.google.com/drive/folders/17Hb1R8_Mr8BOn2uBAP4dz_DtplGug58c
 
 ## Herní engine:
-UE4, Godot 4
-hlavní projekt Open-VTT v Godot 4:
+UE4, Godot 4<br>
+hlavní projekt Open-VTT v Godot 4:<br>
 https://github.com/Khazlor/Open-VTT
 
 ## Programování:
@@ -54,7 +54,7 @@ Od malička hraji počítačové hry, jedná se o hlavní faktor, který mě nas
 
 Pokud bych se Vám do týmu hodil, neváhejte mě kontaktovat, rád vyplním jakékoli dotazníky, nebo splním testovací úkoly.
 
-Mockrát děkuji,
+Mockrát děkuji,<br>
 přeji pěkný den,
 
 Vladimír Horák
