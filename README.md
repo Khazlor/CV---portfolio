@@ -6,6 +6,23 @@ Jmenuji se Vladimír Horák a hledám práci v oblasti Game-Development ideáln�
 
 Nedávno jsem vystudoval vysokou školu VUT FIT a kromě bakalářské práce v herním enginu Godot 4 mám dlouhodobé zkušenosti s vývojem her jako 3D grafik a programátor. Doufám že bych se Vám do týmu mohl hodit.
 
+# Shrnutí Zkušeností
+
+### 3D grafika:
+Blender, Substance Painter, ZBrush + materiály v UE4, animace<br>
+Galerie zajímavé volnočasové tvorby:<br>
+https://drive.google.com/drive/folders/17Hb1R8_Mr8BOn2uBAP4dz_DtplGug58c
+
+### Herní engine:
+UE4, Godot 4, učím se pracovat s Unity<br>
+hlavní projekt Open-VTT v Godot 4:<br>
+https://github.com/Khazlor/Open-VTT
+
+### Programování:
+C/C++, Java, Python, Pascal, GDScript<br>
+Momentálně se učím C#
+
+
 # Zkušenosti / Kvalifikace
 
 ### 3D Grafik
@@ -27,21 +44,6 @@ Tím pádem mám určité zkušenosti s více oblastmi vývoje, ale nespecializu
 
 Pokud by jste se chtěli blíže seznámit s mým myšlenkovým pochodem při tvorbě projektu, většina je popsána ve svých sekcích mé bakalářské práce, jejímž výsledkem je Open-VTT: https://www.vut.cz/studenti/zav-prace/detail/156289
 
-# Shrnutí
-
-### 3D grafika:
-Blender, Substance Painter, ZBrush + materiály v UE4, animace<br>
-Galerie zajímavé volnočasové tvorby:<br>
-https://drive.google.com/drive/folders/17Hb1R8_Mr8BOn2uBAP4dz_DtplGug58c
-
-### Herní engine:
-UE4, Godot 4<br>
-hlavní projekt Open-VTT v Godot 4:<br>
-https://github.com/Khazlor/Open-VTT
-
-### Programování:
-C/C++, Java, Python, Pascal, GDScript<br>
-Momentálně se učím C#
 
 # Ideální pozice
 
